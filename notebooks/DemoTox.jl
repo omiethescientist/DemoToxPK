@@ -17,7 +17,7 @@ end
 # ╔═╡ 705ea590-6c05-11ec-00b5-578d2b63e1ea
 begin
 	using Pkg
-	Pkg.activate(".")
+	Pkg.activate("..")
 	using Plots
 	using PlutoUI
 end
