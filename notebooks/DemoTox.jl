@@ -41,7 +41,7 @@ tspan = 0:1:240
 @bind ke Slider(0.01:0.01:1; default = 0.1)
 
 # ╔═╡ 5c2beb78-40d1-4d47-9287-c818b7d3f2dc
-"ka: $(ke)"
+"ke: $(ke)"
 
 # ╔═╡ 00f902cd-3675-4488-a564-521bab946fda
 @bind ka Slider(1:1:100; default = 50)
